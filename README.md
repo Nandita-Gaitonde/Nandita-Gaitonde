@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Nandita 👋</h1>
+<h1 align="center">Hi, I'm Nandita Gaitonde 👋</h1>
 
 <p align="center">
-  Computer Science student who believes the best way to actually learn a system is to build one end-to-end — model, backend, and interface included.
+  Computer Science student who believes the best way to actually learn a system is to build one.
 </p>
 
 ---
 
 ### 🎓 About Me
 
-I'm a 3rd year Computer Science student exploring how systems think — from the logic gates that started it all, to the machine learning models that now make decisions on their own. Somewhere between algorithms class and late-night debugging sessions, I found I genuinely like building things that *work*, not just things that compile.
+I'm a 3rd year Computer Science student exploring how systems think — from the logic gates that started it all, to the machine learning models that now make decisions on their own. Somewhere between algorithms class and late-night sessions, I found I genuinely like building things that *work*, not just things that compile.
 
 ### 🔭 What I'm Exploring
 
@@ -68,10 +68,10 @@ Building projects that sit at the intersection of AI and practical, real-world s
 ### 📫 Connect With Me
 
 <p>
-  <a href="your-linkedin-url-here">
+  <a href="https://www.linkedin.com/in/nandita-gaitonde-7a4161376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email-here">
+  <a href="nanditamg4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
