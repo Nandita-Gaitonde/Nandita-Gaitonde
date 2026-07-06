@@ -15,13 +15,13 @@ I'm exploring how systems actually think — from algorithms class to machine le
 ### 🚀 Currently Working With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,flask,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,mongodb" />
 </p>
 
 ### 🧰 I've Also Worked With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,docker,kubernetes,postgres,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=js,docker,kubernetes,postgres,html,css,git" />
 </p>
 
 ### 🔗 You Can Find Me On
@@ -56,11 +56,11 @@ A working Open5GS + UERANSIM setup demonstrating live network slicing on Kuberne
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandita-Gaitonde&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandita-Gaitonde&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandita-Gaitonde&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF8C42&text_color=4FC3F7" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandita-Gaitonde&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=4FC3F7" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandita-Gaitonde&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandita-Gaitonde&hide_border=true&background=0D1117&border=FF8C42&stroke=FFD700&ring=FF8C42&fire=FFD700&currStreakLabel=4FC3F7&sideLabels=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
+ 
 
