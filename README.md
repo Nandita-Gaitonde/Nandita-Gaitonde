@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Nandita</h1>
+<h1 align="center"><code>printf("Hello <s>World</s> Code Creators !");</code></h1>
+
+<h1 align="center">👋 I'm Nandita Gaitonde</h1>
 
 <p align="center">
-  <code>printf("Hello ~~World~~ Code Creators !");</code>
-</p>
-
-<p align="center">
-  3rd year Computer Science student who'd rather build the full system than just read about it — model, backend, and interface included.
+  3rd year Computer Science student who'd rather build the full system than just read about it.
 </p>
 
 ---
@@ -65,3 +63,4 @@ A working Open5GS + UERANSIM setup demonstrating live network slicing on Kuberne
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandita-Gaitonde&theme=tokyonight&hide_border=true" />
 </p>
+
